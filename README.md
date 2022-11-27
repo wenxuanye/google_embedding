@@ -33,3 +33,6 @@ As shown in below image, the first part is to use pretrained ViT (on ImageNet21k
 
 During the training, every epoch costs about 3-5 hours to complete and the final ranking is 78/1022
 ![result](img/ranking.png)
+
+## Follow-up
+Since the competition is already finished, I will not continue to improve the model. But I will refer from the top 5 players and try to improve the model in the future and here is the solution of the 2nd player. [link](https://github.com/XL-H/GUIE-2nd-Place-Solution)
