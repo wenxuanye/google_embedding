@@ -5,6 +5,8 @@ Image representations are a critical building block of computer vision applicati
 
 In this competition, the developed models are expected to retrieve relevant database images to a given query image (ie, the model should retrieve database images containing the same object as the query). The images in our dataset comprise a variety of object types, such as apparel, artwork, landmarks, furniture, packaged goods, among others.
 
+## Interact with CLIP
+Open the ```interacting_with_CLIP.ipynb``` in colab and run the codes.
 ## Getting Started
 Run the ```google_embedding_Train.ipynb``` under Colab Tpu enviroment.
 ## Data collection
